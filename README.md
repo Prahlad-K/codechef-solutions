@@ -1,2 +1,2 @@
 # codechef-solutions
-This repo contains all of my successfull submissions on CodeChef (practice problems + competitions)
+This repo contains 138 C++ programming solutions for practice problems + competitions on CodeChef.
